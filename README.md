@@ -7,7 +7,7 @@ Unless otherwise specified, talks start at 4:15pm and will be about 60 minutes +
 
 | Week | Date | Presenter(s) | Title / Abstract|
 |:------:|:------:|-----------|------|
-01 | 2020-04-15 | |  |
+01 | 2020-04-15 | *no talk scheduled* |  |
 02 | 2020-04-22 | *David Schlangen* | [*Information on getting credit for this course*](material/01-colloq-guidelines.pdf) |
 03 | 2020-04-29 | MSc CogSys Students | Poster Slam |
 04 | 2020-05-06 | |  |
