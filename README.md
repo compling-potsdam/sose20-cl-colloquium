@@ -3,7 +3,7 @@
 New (2020-03-23): Things are still a bit up in the air, but it looks like the whole semester, or at the very least major parts of it, will happen online in some form or other. So, the dates as they stand here are confirmed, but the presentations will be remote, with the details still to be worked out.
 
 
-BSc students: It will be possible to get credit for taking this class ("Schlüsselqualifikationen"). If you are interested in this, come to the session on April 17.
+BSc students: It will be possible to get credit for taking this class ("Schlüsselqualifikationen"). If you are interested in this, come to the session on April 22. (Details will be shown in the comments on the PULS entry for the class.)
 
 Unless otherwise specified, talks start at 4:15pm and will be about 60 minutes + time for questions. All talks will take place in Building 14, room 0.09, Campus Golm. See [map](https://www.uni-potsdam.de/db/zeik-portal/gm/lageplan-up.php?komplex=2).
 
