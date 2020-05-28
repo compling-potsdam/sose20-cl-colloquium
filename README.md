@@ -15,7 +15,7 @@ BSc students: It will be possible to get credit for taking this class ("Schlüss
 06 | 2020-05-20 | [Ines Montani](https://ines.io) (Explosion AI, Berlin)| The Future of NLP in Python |
 07 | 2020-05-27 | |  |
 08 | 2020-06-03 | [Gabriel Skantze](https://www.kth.se/profile/skantze) (KTH, Stockholm, & FurHat Robotics)| Conversational Turn-taking in Human-robot Interaction  |
-09 | 2020-06-10 |[Stephen Roller](https://stephenroller.com/)  | tba |
+09 | 2020-06-10 |[Stephen Roller](https://stephenroller.com/) (Facebook AI Research) | tba |
 10 | 2020-06-17 | [Gemma Boleda ](https://gboleda.github.io) (U Pompeu Fabra, Barcelona)| tba  |
 11 | 2020-06-24 | |  |
 12 | 2020-07-01 | *no talk scheduled* |  |
