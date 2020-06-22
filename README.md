@@ -17,7 +17,7 @@ BSc students: It will be possible to get credit for taking this class ("Schlüss
 08 | 2020-06-03 | [Gabriel Skantze](https://www.kth.se/profile/skantze) (KTH, Stockholm, & FurHat Robotics)| Conversational Turn-taking in Human-robot Interaction  |
 09 | 2020-06-10 |[Stephen Roller](https://stephenroller.com/) (Facebook AI Research) | tba |
 10 | 2020-06-17 | [Gemma Boleda ](https://gboleda.github.io) (U Pompeu Fabra, Barcelona)| tba  |
-11 | 2020-06-24 | [Emiel van Miltenburg(https://emielvanmiltenburg.nl) (U Tilburg)]| Image description and the computational level in NLG research  |
+11 | 2020-06-24 | [Emiel van Miltenburg](https://emielvanmiltenburg.nl) (U Tilburg)| Image description and the computational level in NLG research  |
 12 | 2020-07-01 | *no talk scheduled* |  |
 13 | 2020-07-08 |  *no talk scheduled* |  |
 14 | 2020-07-15 | [Raffaella Bernardi](http://disi.unitn.it/~bernardi/) (U Trento)| tba  |
