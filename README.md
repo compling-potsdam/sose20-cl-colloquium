@@ -20,5 +20,5 @@ BSc students: It will be possible to get credit for taking this class ("Schlüss
 11 | 2020-06-24 | [Emiel van Miltenburg](https://emielvanmiltenburg.nl) (U Tilburg)| Image description and the computational level in NLG research  |
 12 | 2020-07-01 | *no talk scheduled* |  |
 13 | 2020-07-08 |  *no talk scheduled* |  |
-14 | 2020-07-15 | [Raffaella Bernardi](http://disi.unitn.it/~bernardi/) (U Trento)| tba  |
+14 | 2020-07-15 | |  |
 15 | 2020-07-22 | |  |
